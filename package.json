@@ -2,7 +2,7 @@
   "name": "firebase-send-notification",
   "version": "1.0.0",
   "description": "Send firebase push notification",
-  "main": "src/app.ts",
+  "main": "index.ts",
   "author": "Rusdi",
   "license": "MIT",
   "dependencies": {
